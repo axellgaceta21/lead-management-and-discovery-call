@@ -116,3 +116,14 @@ body {
 
   color: #64748b;
 }
+.footer-logo {
+
+  width: 90px;
+
+  height: 90px;
+
+  object-fit: contain;
+
+  margin-bottom: 20px;
+
+}
